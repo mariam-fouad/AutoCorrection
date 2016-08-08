@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-segmenter-2013-04-04/seg.jar"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-segmenter-2013-04-04/stanford-segmenter-1.6.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-segmenter-2013-04-04/stanford-segmenter-1.6.8-sources.jar"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-postagger-full-2013-04-04/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-postagger-full-2013-04-04/stanford-postagger-3.1.5.jar"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-postagger-full-2013-04-04/stanford-postagger-3.1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-postagger-full-2013-04-04/stanford-postagger-3.1.5-src.jar"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-parser-full-2014-06-16/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-parser-full-2014-06-16/ejml-0.23-src.zip"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-parser-full-2014-06-16/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-parser-full-2014-06-16/stanford-parser-3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-parser-full-2014-06-16/stanford-parser-3.4-models.jar"/>
+	<classpathentry kind="lib" path="/home/mariam/Documents/4th year first term/NLP/Lab7/stanford-parser-full-2014-06-16/stanford-parser-3.4-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
